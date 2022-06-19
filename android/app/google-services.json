@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "232716288924",
-    "project_id": "spotgarbagenew",
-    "storage_bucket": "spotgarbagenew.appspot.com"
+    "project_number": "767697956469",
+    "project_id": "spotgarbage-1898e",
+    "storage_bucket": "spotgarbage-1898e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:232716288924:android:22b530ee6770e0a80abe59",
+        "mobilesdk_app_id": "1:767697956469:android:94a788ef5f5a04c3d1923c",
         "android_client_info": {
           "package_name": "com.example.spotgarbagenew"
         }
       },
       "oauth_client": [
         {
-          "client_id": "232716288924-7alpudb7r2jie8192hqk76e16eqa3kil.apps.googleusercontent.com",
+          "client_id": "767697956469-3i829u3a9no8ak79gg5r3jmi0r1ljh42.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.spotgarbagenew",
-            "certificate_hash": "a3038bdef5af56456eef7d24f163af1c9c63f754"
+            "certificate_hash": "d7cbb8dff144b6a42ff79f8e50796934b8f42f8f"
           }
         },
         {
-          "client_id": "232716288924-9ad07o3q92cr9125pltcjsnd9sf1mr1f.apps.googleusercontent.com",
+          "client_id": "767697956469-g4gani881rj7455ijn6mgajdr99p6l0d.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD9CjmkY_LlfiUYqzzFYPXKvE393ZT08s8"
+          "current_key": "AIzaSyDVNGbp81ESMNx0RNlioUNs2tgYlNIvJPE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "232716288924-9ad07o3q92cr9125pltcjsnd9sf1mr1f.apps.googleusercontent.com",
+              "client_id": "767697956469-g4gani881rj7455ijn6mgajdr99p6l0d.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
