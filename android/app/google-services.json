@@ -1,41 +1,70 @@
 {
   "project_info": {
-    "project_number": "767697956469",
-    "project_id": "spotgarbage-1898e",
-    "storage_bucket": "spotgarbage-1898e.appspot.com"
+    "project_number": "661819140595",
+    "project_id": "spotgarbageadmin",
+    "storage_bucket": "spotgarbageadmin.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:767697956469:android:94a788ef5f5a04c3d1923c",
+        "mobilesdk_app_id": "1:661819140595:android:50c33eb818e7321c30ca86",
         "android_client_info": {
           "package_name": "com.example.spotgarbagenew"
         }
       },
       "oauth_client": [
         {
-          "client_id": "767697956469-3i829u3a9no8ak79gg5r3jmi0r1ljh42.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.spotgarbagenew",
-            "certificate_hash": "d7cbb8dff144b6a42ff79f8e50796934b8f42f8f"
-          }
-        },
-        {
-          "client_id": "767697956469-g4gani881rj7455ijn6mgajdr99p6l0d.apps.googleusercontent.com",
+          "client_id": "661819140595-mhgq20lbtmqobotji2vcdk1kofaaf57r.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDVNGbp81ESMNx0RNlioUNs2tgYlNIvJPE"
+          "current_key": "AIzaSyAI8Lj5BpiTpwFII4AGLwi-JjoAnnDlfdE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "767697956469-g4gani881rj7455ijn6mgajdr99p6l0d.apps.googleusercontent.com",
+              "client_id": "661819140595-mhgq20lbtmqobotji2vcdk1kofaaf57r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661819140595:android:8f614c7d362632a430ca86",
+        "android_client_info": {
+          "package_name": "com.example.spotgarbagenewnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661819140595-vul0676m0keocuo8i6kmebhc2m5go8c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spotgarbagenewnew",
+            "certificate_hash": "d7cbb8dff144b6a42ff79f8e50796934b8f42f8f"
+          }
+        },
+        {
+          "client_id": "661819140595-mhgq20lbtmqobotji2vcdk1kofaaf57r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI8Lj5BpiTpwFII4AGLwi-JjoAnnDlfdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661819140595-mhgq20lbtmqobotji2vcdk1kofaaf57r.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
